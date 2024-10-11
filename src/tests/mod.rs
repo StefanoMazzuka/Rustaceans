@@ -1,1 +1,3 @@
 pub mod tests_merge_sorted_array;
+pub mod tests_remove_duplicates_from_sorted_array;
+pub mod tests_remove_duplicates_from_sorted_array_ii;
